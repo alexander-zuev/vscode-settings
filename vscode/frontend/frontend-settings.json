@@ -1,0 +1,12 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.suggest.completeFunctionCalls": true,
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.mdx": "markdown"
+  }
+}
