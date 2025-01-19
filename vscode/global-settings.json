@@ -1,0 +1,16 @@
+{
+    "window.commandCenter": true,
+    "window.newWindowProfile": "BE",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.formatOnSave": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "git.enableSmartCommit": true,
+    "git.allowNoVerifyCommit": true,
+    "github.gitProtocol": "ssh",
+    "cursor.chat.smoothStreaming": true
+}
