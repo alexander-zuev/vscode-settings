@@ -1,0 +1,31 @@
+{
+  "window.commandCenter": 1,
+  "workbench.colorTheme": "Default Dark+",
+  "windsurf.autocompleteSpeed": "fast",
+  "windsurf.autoExecutionPolicy": "off",
+  "windsurf.chatFontSize": "default",
+  "windsurf.rememberLastModelSelection": true,
+  "windsurf.explainAndFixInCurrentConversation": true,
+  "windsurf.openRecentConversation": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmPasteNative": false,
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.suggest.completeFunctionCalls": true,
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.mdx": "markdown"
+  },
+  "git.autofetch": true,
+  "eslint.nodeEnv": "",
+  "cSpell.userWords": [
+    "supabase"
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.enableSmartCommit": true
+}

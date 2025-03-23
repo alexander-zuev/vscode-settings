@@ -64,5 +64,6 @@
     "tsx",
     "cjs",
     "mjs"
-  ]
+  ],
+  "python.diagnostics.sourceMapsEnabled": true
 }

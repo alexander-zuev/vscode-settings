@@ -8,5 +8,11 @@
   "files.associations": {
     "*.css": "tailwindcss",
     "*.mdx": "markdown"
-  }
+  },
+  "explorer.confirmDelete": false,
+  "git.autofetch": true,
+  "explorer.confirmDragAndDrop": false,
+  "cSpell.userWords": [
+    "supabase"
+  ]
 }
